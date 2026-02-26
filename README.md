@@ -1,9 +1,10 @@
 # ELEVATE_LABS – AI & Machine Learning Internship Tasks
 
-This repository contains all the tasks completed as part of my AI & Machine Learning Internship at Elevate Labs.
-Each task focuses on different concepts of data analysis, machine learning, and model building using Python and Scikit-learn.
+This repository serves as a **central collection of all tasks completed during my AI & Machine Learning Internship at Elevate Labs**.
 
-The repository is organized in a structured and sequential manner for easy understanding and navigation.
+Each task is also maintained as a **separate individual GitHub repository**, and all of them are organized together here for easy access and review.
+
+Each task focuses on different concepts of data analysis, machine learning, and model building using Python and Scikit-learn.
 
 ---
 ## 📂 Task List
